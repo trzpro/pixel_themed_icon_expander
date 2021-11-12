@@ -1,5 +1,5 @@
-# pixellanchericon
-Pixel Launcher Material You Icon Pack
+# Pixel Launcher Material You Icon Pack
+
 
 Expands icon number of Material You Themed Icons
 
